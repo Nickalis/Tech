@@ -74,6 +74,12 @@ body {
     background: rgb(98, 109, 102);
 }
 
+@media screen and (max-width: 700px) {
+    .row {   
+      flex-direction: column;
+    }
+  }
+
 h7 {
     color: #FFFFFA; 
     color: #515052;
