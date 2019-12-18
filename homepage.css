@@ -61,16 +61,8 @@ body {
 
 .fakeimg {
     border-radius: 25px;
-    background-color: #000000;
+    background-color: #515052;
     width: 100%;
-    padding: 5px;
-}
-
-.test {
-    height: 100%;
-    width: 100%;
-    object-fit: contain;
-    border-radius: 25px;
     padding: 5px;
 }
 
