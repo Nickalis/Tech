@@ -14,8 +14,12 @@ body {
     border-top-right-radius: 25px;
     padding: 60px;
     text-align: center;
-    background: rgb(98, 109, 102);
-    color: #000103;
+    background: rgb(0, 0, 0);
+    color: #000000;
+}
+
+.headert {
+    color: #ffffff;
 }
 
 .navbar {
@@ -71,7 +75,11 @@ body {
     border-bottom-right-radius: 25px;
     padding: 20px;
     text-align: center;
-    background: rgb(98, 109, 102);
+    background: rgb(0, 0, 0);
+}
+
+.footert {
+    color: #ffffff;
 }
 
 @media screen and (max-width: 700px) {
